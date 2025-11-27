@@ -1,4 +1,4 @@
-#  Architecture Synchrone YowYob Search - Frontend
+#  YowYob Search PWA - Frontend
 
 ##  Vue d'ensemble Frontend
 
