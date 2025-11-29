@@ -1,4 +1,4 @@
-# YowYob Search — Frontend (Next.js 2025 • PWA • SSR • SEO • Tailwind • Maps • OMS Tiles)
+# YowYob Search — Frontend (Next.js • PWA • SSR • SEO • Tailwind • Maps • OMS Tiles)
 Interface moderne, rapide et optimisée du moteur de recherche intelligent YowYob Search.
 Construit avec Next.js App Router, React Server Components, Tailwind, SSR, SEO avancé, PWA, Web Push Notifications, Web Analytics, OMS Tiles, Merchant Dashboard, User Dashboard, et intégration directe avec l'API Gateway backend.
 
